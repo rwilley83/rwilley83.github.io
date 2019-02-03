@@ -1,11 +1,11 @@
 # Site settings
 author: Raymond Willey
-title: 
+title: Information Overload
 header-img: img/home-bg.png
 email: raymond_willey@me.com
 copyright_name: Raymond Willey
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Practical Approaches for Humans and Machines
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: rwilleyii
 github_username:  rwilley83
